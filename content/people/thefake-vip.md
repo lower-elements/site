@@ -1,7 +1,7 @@
 ---
 title: "TheFake VIP"
 date: 2022-09-17T18:30:51+01:00
-draft: true
+draft: false
 menu:
   main:
     parent: people

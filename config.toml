@@ -1,3 +1,8 @@
 baseURL = 'https://lowerelements.club'
 languageCode = 'en-gb'
 title = 'The Lower Elements Club'
+copyright = 'Copyright (C) 2022 The Lower Elements Club members'
+
+[taxonomies]
+tag = 'tags'
+person = 'people'

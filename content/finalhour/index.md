@@ -26,7 +26,7 @@ Final Hour has been tested on Windows, Linux and MacOS, The latter two of which 
 Final Hour is completely free to play!
 Please note that before downloading, by playing the game, you confirm that you are at least 18 years old (or have received parental or guardian consent to participate).
 You can download the game using one of the linux below:
-* [Windows 64]: (https://finalhour.lowerelements.club/latest.zip)
+* [Windows 64](https://finalhour.lowerelements.club/latest.zip)
 * Linux: currently experimental and therefore currently not downloadable. 
 * MacOS: currently experimental and therefore undownloadable
 ---

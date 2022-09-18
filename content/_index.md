@@ -3,7 +3,9 @@ title: "Welcome"
 linkTitle: Home
 date: 2022-09-17T00:44:35+01:00
 draft: false
-menu: main
+menu:
+  main:
+    weight: -30
 ---
 
 # Taking Over the Mud People with FOSS!

@@ -5,5 +5,6 @@ draft: false
 menu:
   main:
     identifier: people
+    weight: -10
 ---
 

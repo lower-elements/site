@@ -5,7 +5,9 @@ date: 2022-09-18T22:19:00+01:00
 draft: false
 menu:
   main:
-    weight: -20
+    parent: projects
+aliases:
+  - /finalhour
 ---
 # Final Hour, A zombie Audio FPS inspired by Call of Duty Zombies
 

@@ -6,3 +6,8 @@ copyright = 'Copyright (C) 2022 The Lower Elements Club members'
 [taxonomies]
 tag = 'tags'
 person = 'people'
+
+[[menus.main]]
+title = "LEGE"
+url = "https://lower-elements.github.io/lege/topics/README.md.html"
+parent = "projects"
